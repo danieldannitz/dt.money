@@ -19,7 +19,7 @@ export const Container = styled.div`
       border: 0;
       background-color: var(--shape);
       font-weight: 400;
-      border-radius: 0.5rem;
+      border-radius: 0.25rem;
       color: var(--text-body);
       &:first-child {
         color: var(--text-title);
